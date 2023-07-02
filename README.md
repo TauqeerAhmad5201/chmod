@@ -23,3 +23,9 @@ The chmod command uses a symbolic or numeric mode to specify the permissions to 
         Read (r)
         Write (w)
         Execute (x)
+        
+ ###   Additional symbolic notations:
+
+    Setuid (s): Allows a file to be executed with the permissions of the file's owner.
+    Setgid (s): Allows a file to be executed with the permissions of the file's group.
+    Sticky bit (t): When set on a directory, only the owner of a file can delete or rename it.
