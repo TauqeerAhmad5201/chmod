@@ -29,3 +29,10 @@ The chmod command uses a symbolic or numeric mode to specify the permissions to 
     Setuid (s): Allows a file to be executed with the permissions of the file's owner.
     Setgid (s): Allows a file to be executed with the permissions of the file's group.
     Sticky bit (t): When set on a directory, only the owner of a file can delete or rename it.
+
+For example:
+
+    chmod u+x filename adds execute permission for the owner.
+    chmod go-rwx directory removes read, write, and execute permissions for the group and others.
+    chmod a=rw file.txt sets read and write permissions for all (owner, group, and others), removing execute permission if it was set.
+ 
