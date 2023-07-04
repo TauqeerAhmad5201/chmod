@@ -35,4 +35,6 @@ For example:
     chmod u+x filename adds execute permission for the owner.
     chmod go-rwx directory removes read, write, and execute permissions for the group and others.
     chmod a=rw file.txt sets read and write permissions for all (owner, group, and others), removing execute permission if it was set.
+
+    These are the basic concepts of using chmod to manage file permissions in DevOps. It's important to understand the implications of changing permissions and use them judiciously to ensure the security and accessibility of files and directories in your system.
  
