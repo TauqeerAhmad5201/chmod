@@ -38,3 +38,5 @@ For example:
 
     These are the basic concepts of using chmod to manage file permissions in DevOps. It's important to understand the implications of changing permissions and use them judiciously to ensure the security and accessibility of files and directories in your system.
  
+
+# What  is chmod +x _filename_
