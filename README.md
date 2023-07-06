@@ -47,3 +47,5 @@ In the symbolic mode, the +x part means adding the execute permission for all us
 
     + signifies adding the specified permission.
     x represents the execute permission.
+
+## Q: is chmod +x and chmod u+x same
