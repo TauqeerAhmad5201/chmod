@@ -49,3 +49,11 @@ In the symbolic mode, the +x part means adding the execute permission for all us
     x represents the execute permission.
 
 ## Q: is chmod +x and chmod u+x same
+
+Yes, chmod +x and chmod u+x are essentially the same and accomplish the same result. Both commands add the execute permission for the owner of the file.
+
+In the symbolic mode, u+x specifically adds the execute permission for the user (owner) of the file. On the other hand, +x adds the execute permission for all users (owner, group, and others).
+
+Therefore, when you use chmod +x filename or chmod u+x filename, you are granting the owner the ability to execute the file as a program.
+
+It's important to note that if the file already has other execute permissions set for the group or others, using chmod +x will retain those permissions while adding the execute permission for the owner.
