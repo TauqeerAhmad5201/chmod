@@ -4,7 +4,7 @@ chmod - change mode
 ### Different permission examples: 
 The chmod command uses a symbolic or numeric mode to specify the permissions to be set. Here's an explanation of the different permissions and how they can be assigned using chmod:
 
-### Numeric Mode:
+### :
 
     The numeric mode represents permissions using a three-digit octal number: xyz.
     x represents the permission for the owner, y for the group, and z for others.
