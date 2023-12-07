@@ -14,7 +14,7 @@ The chmod command uses a symbolic or numeric mode to specify the permissions to 
         Execute (x): 1
     For example, chmod 755 filename sets the owner to have read, write, and execute permissions (4+2+1 = 7), while the group and others have read and execute permissions (4+1 = 5).
     
-### Mode 
+### Symbolic Mode 
 
     The symbolic mode uses a combination of letters and symbols to specify permissions.
     u represents the owner, g represents the group, o represents others, and a represents all (u+g+o).
