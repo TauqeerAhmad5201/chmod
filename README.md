@@ -56,7 +56,7 @@ In the symbolic mode, u+x specifically adds the execute permission for the user 
 
 Therefore, when you use chmod +x filename or chmod u+x filename, you are granting the owner the ability to execute the file as a program.
 
-It's important to note that if the file already has other execute permissions set for the group or , using chmod +x will retain those permissions while adding the execute permission for the owner.
+It's important to note that if the file already has other execute permissions set for the group or others, using chmod +x will retain those permissions while adding the execute permission for the owner.
 
 
 ### Example
