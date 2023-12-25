@@ -41,7 +41,7 @@ For example:
 
 # What  is chmod +x _filename_
 
-The chmod +x to add the execute permission to a file. When you set the execute permission, you allow the file to be executed or run as a program.
+The chmod +x command is used to add the execute permission to a file. When you set the execute permission, you allow the file to be executed or run as a program.
 
 In the symbolic mode, the +x part means adding the execute permission for all users. Here's a breakdown of the symbolic notation:
 
