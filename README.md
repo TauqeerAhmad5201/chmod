@@ -6,7 +6,7 @@ The chmod command uses a symbolic or numeric mode to specify the permissions to 
 
 ### Numeric Mode:
 
-    The numeric mode represents permissions using a  octal number: xyz.
+    The numeric mode represents permissions using three-digit a  octal number: xyz.
     x represents the permission for the owner, y for the group, and z for others.
     Each digit can be calculated by adding the values of the following permissions:
         Read (r): 4
