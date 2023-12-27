@@ -18,7 +18,7 @@ The chmod command uses a symbolic or numeric mode to specify the permissions to 
 
     The symbolic mode uses a combination of letters and symbols to specify permissions.
     u represents the owner, g represents the group, o represents others, and a represents all (u+g+o).
-    + adds permissions, - removes permissions, and = sets the permissions explicitly.
+    + adds permissions, - removes permissions,  = sets the permissions explicitly.
     The basic permission letters are:
         Read (r)
         Write (w)
