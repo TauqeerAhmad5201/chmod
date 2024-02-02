@@ -68,4 +68,4 @@ It's important to note that if the file already has other execute permissions se
 
 # numeric notation
 
-chmod 777 file.txt 
+chmod 777 file.txt -> -rwxrwxrwx 
