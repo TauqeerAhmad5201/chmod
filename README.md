@@ -65,3 +65,5 @@ It's important to note that if the file already has other execute permissions se
 ![image](https://github.com/TauqeerAhmad5201/chmod/assets/68806440/5dfa5f67-330c-41f5-9bd3-02359fcdee93)
 
 
+
+# numeric notation
